@@ -11,7 +11,7 @@ Meu Portfolio desenvolvido com HTML e CSS, com o curso do Alura
 
 ## Feito por:
 
-### Joana Santos
+###  GABRIEL JAQUES
 
 ### Linkedin:  https://www.linkedin.com/in/gabriel-jaques-a95a4414a/
 
